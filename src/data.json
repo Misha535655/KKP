@@ -1,0 +1,665 @@
+
+[           {
+    "articul":"venki", 
+    "id": 1,
+    "price":164,
+    "title":"Вінок (штучна ялинка, штучні квіти гарбери,кали) 0,45 м х 0,7 м (помаранчевий)",
+    "image":"https://files.fm/thumb_show.php?i=2pbnu2mqb"
+
+},
+    {
+        "articul":"venki",
+        "id": 2,
+        "price":164,
+        "title":"Кошик (штучна ялинка, штучні квіти гарбери,кали) 0,45 м х 0,7 м (рожевий)",
+        "image":"https://files.fm/thumb_show.php?i=p36p86xf9"
+
+    },
+    {
+        "articul":"venki", 
+        "id": 3,
+        "price":164,
+        "title":"Вінок ( штучна ялинка, квіти троянди, кала, стричка (рожево-жовтий) 0,6 м х 1,15 м",
+        "image":"https://files.fm/thumb_show.php?i=jxxm62r5q"
+
+    },
+    {
+        "articul":"venki", 
+        "id": 4,
+        "price":164,
+        "title":"Вінок ( штучна ялинка, квіти троянди, кала, стричка (біло-рожевий) 0,6 м х 1,15 м",
+        "image":"https://files.fm/thumb_show.php?i=kuu6fbfm8"
+
+    },
+    {
+        "articul":"venki", 
+        "id": 5,
+        "price":455,
+        "title":"Вінок ( штучна ялинка, штучні квіти троянди, лілія, гладіолус,гвоздика, папороть, стричка (червоно-жовтий) 0,6 м х 1,15 м (2)",
+        "image":"https://files.fm/thumb_show.php?i=4raetgnf6"
+
+    },
+    {
+        "articul":"venki", 
+        "id": 6,
+        "price":455,
+        "title":"Вінок ( штучна ялинка, штучні квіти троянди, крокус, гладуолус, гвоздика, стричка (рожево-білий) 0,6 м х 1,15 м",
+        "image":"https://files.fm/thumb_show.php?i=nftatgnbs"
+
+    },
+    {
+        "articul":"venki", 
+        "id": 7,
+        "price":455,
+        "title":"Вінок ( штучна ялинка, штучні квіти троянди, крокус, гладуолус, гвоздика, стричка (червоно-білий) 0,6 м х 1,15 м (3)",
+        "image":"https://files.fm/thumb_show.php?i=fxrt8s7qk"
+
+    },
+    {
+        "articul":"venki", 
+        "id": 8,
+        "price":455,
+        "title":"Вінок ( штучна ялинка, штучні квіти троянди, крокус, гладуолус, гвоздика, стричка (біло-червоний) 0,6 м х 1,15 м (3)",
+        "image":"https://files.fm/thumb_show.php?i=vvhzufw4a"
+
+    },
+    {
+        "articul":"venki", 
+        "id": 9,
+        "price":455,
+        "title":"Вінок ( штучна ялинка, штучні квіти троянди, крокус, гладуолус, гвоздика, стричка (жовто-червоний) 0,6 м х 1,15 м",
+        "image":"https://files.fm/thumb_show.php?i=njqgmarha"
+
+    },
+        {
+            "articul":"venki",
+            "id": 10,
+            "price":448,
+            "title":"Вінок ( штучна ялинка, папороть штучні квіти троянди, лілія, стричка (біло-рожевий) 0,6 м х 1,15 м",
+            "image":"https://files.fm/thumb_show.php?i=tkgqftef2"
+
+        },
+        {
+            "articul":"venki", 
+            "id": 11,
+            "price":448,
+            "title":"Вінок ( штучна ялинка, папороть штучні квіти троянди, лілія, стричка (блакитно-білий) 0,6 м х 1,15 м",
+            "image":"https://files.fm/thumb_show.php?i=ue5ypdvrt"
+
+        },
+        {
+            "articul":"venki", 
+            "id": 12,
+            "price":448,
+            "title":" Вінок ( штучна ялинка, папороть штучні квіти троянди, лілія, стричка (червоно-білий) 0,6 м х 1,15 м",
+            "image":"https://files.fm/thumb_show.php?i=3rwp9my44"
+
+        },
+        {
+            "articul":"venki", 
+            "id": 13,
+            "price":483,
+            "title":"Вінок штучна ялинка бутони, троянди, папороть(блакитний)",
+            "image":"https://files.fm/thumb_show.php?i=64s5dz9xd"
+
+        },
+        {
+            "articul":"venki", 
+            "id": 14,
+            "price":483,
+            "title":"Вінок штучна ялинка бутони, троянди, папороть(жовтий)",
+            "image":"https://files.fm/thumb_show.php?i=kbqkthkuh"
+
+        },
+        {
+            "articul":"venki", 
+            "id": 15,
+            "price":483,
+            "title":"Вінок штучна ялинка бутони, троянди, папороть(рожевий)",
+            "image":"https://files.fm/thumb_show.php?i=6rssy5vxm"
+
+        },
+        {
+            "articul":"venki", 
+            "id": 16,
+            "price":637,
+            "title":"Вінок (штучна ялинка пухнаста, штучні квити троянди, гладіолус, папорость, стричка) (свілтло рожевий)  0,6 м х 1,15 м",
+            "image":"https://files.fm/thumb_show.php?i=88837n56k"
+
+        },
+        {
+            "articul":"venki", 
+            "id": 17,
+            "price":637,
+            "title":"Вінок штучні квити троянди, гладіолус, папорость, стричка(якраво рожевий) 0,6 м х 1,15 м",
+            "image":"https://files.fm/thumb_show.php?i=hpabbm6dk"
+
+        },
+
+
+
+
+
+
+
+
+
+
+
+        {
+            "articul":"truna",
+            "id": 18,
+            "price":857,
+            "title":"Труна ( шовкова, мереживо, закрутки)",
+            "image":"https://files.fm/thumb_show.php?i=8kmdt2t4r"
+
+        },
+        {
+            "articul":"truna",
+            "id": 19,
+            "price":1365,
+            "title":"Труна (велюрова, шовк, мереживо, закрутки)",
+            "image":"https://files.fm/thumb_show.php?i=xtxvzd4ry"
+
+        },
+        {
+            "articul":"truna",
+            "id": 20,
+            "price":1495,
+            "title":"Труна(шовкова, комбiнована, закрутки) (нестандарт)",
+            "image":"https://files.fm/thumb_show.php?i=eb7yckxmm"
+
+        },
+        {
+            "articul":"truna",
+            "id": 21,
+            "price":1670,
+            "title":"Труна( велюрова комбінована із золотою аплікацією, закрутки)",
+            "image":"https://files.fm/thumb_show.php?i=rh85tzc95"
+
+        },
+        {
+            "articul":"truna",
+            "id": 22,
+            "price":1670,
+            "title":"Труна( велюрова комбінована із золотою аплікацією, закрутки)",
+            "image":"https://files.fm/thumb_show.php?i=et4m7n78u"
+
+        },
+        {
+            "articul":"truna",
+            "id": 23,
+            "price":2184,
+            "title":"Труна(стрейч оксамит, мережево, прикрашена аплыкацыэю, ручки, закрутки) 0,75 х 2,0м",
+            "image":"https://files.fm/thumb_show.php?i=y5bj6w2es"
+
+        },
+        {
+            "articul":"truna",
+            "id": 24,
+            "price":2184,
+            "title":"Труна( стрейч оксамит, мереживо, прикрашена аплікацією, ручки, закрутки)",
+            "image":"https://files.fm/thumb_show.php?i=qxuhuebeb"
+
+        },
+        {
+            "articul":"truna",
+            "id": 25,
+            "price":4948,
+            "title":"Труна дерев`яна( лак, декорована тканиною, мереживо, ручки) 0,85 х 2,1м",
+            "image":"https://files.fm/thumb_show.php?i=fqpbza349"
+
+        },
+
+
+
+
+
+
+
+
+
+        {
+            "articul":"krest",
+            "id": 26,
+            "price":840,
+            "title":"Хрест дерев`яний(сосна, лак с 3-ма поперечинами)",
+            "image":"https://files.fm/thumb_show.php?i=eykbuaee7"
+
+        },
+        {
+            "articul":"krest",
+            "id": 27,
+            "price":532,
+            "title":"Хрест дерев`яяний( сосна, лак с 2-ма поперечинами)",
+            "image":"https://files.fm/thumb_show.php?i=xd59jxhuy"
+
+        },
+
+
+
+
+
+
+
+
+
+
+        {
+            "articul":"mogili",
+            "id": 28,
+            "price":264,
+            "title":"Копання могили ручним способом довжиною 1,1 м",
+            "image":"https://files.fm/thumb_show.php?i=a623agba5"
+
+        },
+        {
+            "articul":"mogili",
+            "id": 29,
+            "price":511,
+            "title":"Копання могили ручним способом довжиною 1,6 м",
+            "image":"https://files.fm/thumb_show.php?i=a623agba5"
+
+        },
+        {
+            "articul":"mogili",
+            "id": 30,
+            "price":792,
+            "title":"Копання могили ручним способом довжиною 2,0 м",
+            "image":"https://files.fm/thumb_show.php?i=a623agba5"
+
+        },
+        {
+            "articul":"mogili",
+            "id": 31,
+            "price":989,
+            "title":"Копання могили ручним способом довжиною 2,4 м",
+            "image":"https://files.fm/thumb_show.php?i=a623agba5"
+
+        },
+
+
+
+
+
+
+
+
+
+
+
+
+        {
+            "articul":"dostavka",
+            "id": 32,
+            "price":329,
+            "title":"Доставка священика (по місту)",
+            "image":"https://files.fm/thumb_show.php?i=mf2x8xw8g"
+
+        },
+        {
+            "articul":"dostavka",
+            "id": 33,
+            "price":494,
+            "title":"Доставка труни на адресу з 8-00 до 16-00 годин",
+            "image":"https://files.fm/thumb_show.php?i=mf2x8xw8g"
+
+        },
+        {
+            "articul":"dostavka",
+            "id": 34,
+            "price":592,
+            "title":"Доставка труни на адресу з 8-00 до 16-00 годин з поверхом",
+            "image":"https://files.fm/thumb_show.php?i=mf2x8xw8g"
+
+        },
+        {
+            "articul":"dostavka",
+            "id": 35,
+            "price":648,
+            "title":"Доставка тіла покійного з моргу на адресу з 8-00 до 16-00 годин",
+            "image":"https://files.fm/thumb_show.php?i=mf2x8xw8g"
+
+        },
+        {
+            "articul":"dostavka",
+            "id": 36,
+            "price":735,
+            "title":"Доставка труни на адресу після 16-00 годин з поверхом",
+            "image":"https://files.fm/thumb_show.php?i=mf2x8xw8g"
+
+        },
+        {
+            "articul":"dostavka",
+            "id": 37,
+            "price":791,
+            "title":"Доставка тіла покійного з моргу на адресу після 16-00 годин",
+            "image":"https://files.fm/thumb_show.php?i=mf2x8xw8g"
+
+        },
+
+
+
+
+
+
+        {
+            "articul":"katafalk",
+            "id": 38,
+            "price":1418,
+            "title":"Послуги катафалка довжиною від 4,9 до 6,4 м. (по місту)",
+            "image":"https://files.fm/thumb_show.php?i=9qrzzgz59"
+
+        },
+        {
+            "articul":"katafalk",
+            "id": 39,
+            "price":1799,
+            "title":"Послуги катафалка довжиною від 4,9 до 6,4 м. (по місту) (за умови очікування на адресі  з 15 хв. до 60 хв.) до 16-00 годин",
+            "image":"https://files.fm/thumb_show.php?i=9qrzzgz59"
+
+        },
+        {
+            "articul":"katafalk",
+            "id": 40,
+            "price":1848,
+            "title":"Послуги катафалка довжиною від 7,1 до 8,2 м. (по місту)",
+            "image":"https://files.fm/thumb_show.php?i=9qrzzgz59"
+
+        },
+        {
+            "articul":"katafalk",
+            "id": 41,
+            "price":1946,
+            "title":"Послуги катафалка довжиною від 4,9 до 6,4 м. (По місту) (за умови  очікування з 15 хв. до  60 хв.) після 16-00 годин",
+            "image":"https://files.fm/thumb_show.php?i=9qrzzgz59"
+
+        },
+        {
+            "articul":"katafalk",
+            "id": 42,
+            "price":2226, 
+            "title":"Послуги катафалка довжиною від 7,1 до 8,2 м. (по місту) (за умови очікування на адресі  з 15 хв. до 60 хв.) до 16-00 годин",
+            "image":"https://files.fm/thumb_show.php?i=9qrzzgz59"
+
+        },
+        {
+            "articul":"katafalk",
+            "id": 43,
+            "price":2387,
+            "title":"Послуги катафалка довжиною від 7,1 до 8,2 м. (По місту) (за умови  очікування з 15 хв. до  60 хв.) після 16-00 годин",
+            "image":"https://files.fm/thumb_show.php?i=9qrzzgz59"
+
+        },
+
+
+
+
+
+
+
+
+
+
+
+        {
+            "articul":"morg",
+            "id": 44,
+            "price":164,
+            "title":"Укладання тіла покійного в труну (2 люд.)",
+            "image":"https://files.fm/thumb_show.php?i=mf2x8xw8g"
+
+        },
+        {
+            "articul":"morg",
+            "id": 45,
+            "price":199,
+            "title":"Укладання тіла покійного в труну (3 люд.)",
+            "image":"https://files.fm/thumb_show.php?i=mf2x8xw8g"
+
+        },
+        {
+            "articul":"morg",
+            "id": 46,
+            "price":276,
+            "title":"Укладання тіла покійного в труну (2 люд.) з перенесенням по приміщенню",
+            "image":"https://files.fm/thumb_show.php?i=mf2x8xw8g"
+
+        },
+        {
+            "articul":"morg",
+            "id": 47,
+            "price":340,
+            "title":"Укладання тіла покійного в труну (3 люд.) з перенесенням по приміщенню",
+            "image":"https://files.fm/thumb_show.php?i=mf2x8xw8g"
+
+        },
+        {
+            "articul":"morg",
+            "id": 48,
+            "price":693,
+            "title":"Винос тіла  покійного з похованням  (2 люд.)",
+            "image":"https://files.fm/thumb_show.php?i=mf2x8xw8g"
+
+        },
+        {
+            "articul":"morg",
+            "id": 49,
+            "price":980,
+            "title":"Винос тіла покійного з моргу на адрес з укладанням тіла у труну та завантаженням труни в машину (4 люд.) до 16-00 годин",
+            "image":"https://files.fm/thumb_show.php?i=mf2x8xw8g"
+
+        },
+        {
+            "articul":"morg",
+            "id": 50,
+            "price":1313,
+            "title":"Винос тіла покійного з моргу на адрес з укладанням тіла у труну та завантаженням труни в машину (4 люд.) з 16-00 до 18-00 годин",
+            "image":"https://files.fm/thumb_show.php?i=mf2x8xw8g"
+
+        },
+        {
+            "articul":"morg",
+            "id": 51,
+            "price":1319,
+            "title":"Винос тіла покійного з моргу на адрес з укладанням тіла у труну та завантаженням труни в машину (6 люд.)  до 16-00 годин",
+            "image":"https://files.fm/thumb_show.php?i=mf2x8xw8g"
+
+        },
+        {
+            "articul":"morg",
+            "id": 52,
+            "price":1726,
+            "title":"Винос тіла  покійного з навантаженням труни в машину та похованням                       (4 люд.)",
+            "image":"https://files.fm/thumb_show.php?i=mf2x8xw8g"
+
+        },
+        {
+            "articul":"morg",
+            "id": 53,
+            "price":1837,
+            "title":"Винос тіла покійного з укладанням в труну , з навантаженням в машину та похованням (4 люд.)",
+            "image":"https://files.fm/thumb_show.php?i=mf2x8xw8g"
+
+        },
+        {
+            "articul":"morg",
+            "id": 54,
+            "price":1887,
+            "title":"Винос тіла покійного з моргу на адрес з укладанням тіла у труну та завантаженням труни після 16-00 годин (6 люд.)",
+            "image":"https://files.fm/thumb_show.php?i=mf2x8xw8g"
+
+        },
+
+        {
+            "articul":"morg",
+            "id": 55,
+            "price":2068,
+            "title":"Винос тіла покійного з похованням з умови  очікування на адресі з 15 хв. до 60 хв. (4 люд.)",
+            "image":"https://files.fm/thumb_show.php?i=mf2x8xw8g"
+
+        },
+        {
+            "articul":"morg",
+            "id": 56,
+            "price":2254,
+            "title":"Винос тіла  покійного з навантаженням труни в машину та похованням               (6 люд.)",
+            "image":"https://files.fm/thumb_show.php?i=mf2x8xw8g"
+
+        },
+        {
+            "articul":"morg",
+            "id": 57,
+            "price":2397,
+            "title":"Винос тіла покійного з укладанням в труну , з навантаженням в машину та похованням (6 люд.)",
+            "image":"https://files.fm/thumb_show.php?i=mf2x8xw8g"
+
+        },
+        {
+            "articul":"morg",
+            "id": 58,
+            "price":2580,
+            "title":"Винос тіла покійного з похованням з умови  очікування на адресі з 15 хв. до 60 хв. (4 люд.) з 16-00до 18-00 годин",
+            "image":"https://files.fm/thumb_show.php?i=mf2x8xw8g"
+
+        },
+
+        {
+            "articul":"morg",
+            "id": 59,
+            "price":2628,
+            "title":"Винос тіла покійного з похованням з умови  очікування на адресі з 15 хв. до 60 хв. (6 люд.) до 16-00годин",
+            "image":"https://files.fm/thumb_show.php?i=mf2x8xw8g"
+
+        },
+        {
+            "articul":"morg",
+            "id": 60,
+            "price":3063,
+            "title":"Винос тіла покійного з похованням з умови  очікування на адресі з 15 хв. до 60 хв. (6 люд.) після  16-00 годин",
+            "image":"https://files.fm/thumb_show.php?i=mf2x8xw8g"
+        },
+
+
+
+
+
+
+        {
+            "articul":"Tovar",
+            "id": 62,
+            "price":100,
+            "title":"Рушник льняний",
+            "image":"https://files.fm/thumb_show.php?i=kvmz8xrpp"
+        },
+        {
+            "articul":"Tovar",
+            "id": 63,
+            "price":51,
+            "title":"Рушник вафельний",
+            "image":"https://files.fm/thumb_show.php?i=bqh4ngffg"
+        },
+        {
+            "articul":"Tovar",
+            "id": 64,
+            "price":61,
+            "title":"Рушник на хрест с нанесеним малюнком",
+            "image":"https://files.fm/thumb_show.php?i=pdzfdbmyu"
+        },
+        {
+            "articul":"Tovar",
+            "id": 65,
+            "price":105,
+            "title":"Рушник на хрест",
+            "image":"https://files.fm/thumb_show.php?i=xydwdjmqg"
+        },
+        {
+            "articul":"Tovar",
+            "id": 67,
+            "price":143,
+            "title":"Покривало шовкове",
+            "image":"https://files.fm/thumb_show.php?i=qq88kj3th"
+        },
+
+        {
+            "articul":"Tovar",
+            "id": 68,
+            "price":143,
+            "title":"Покривало тюльове",
+            "image":"https://files.fm/thumb_show.php?i=f9e435n9x"
+        },
+
+        {
+            "articul":"Tovar",
+            "id": 69,
+            "price":168,
+            "title":"Покривало велюрове",
+            "image":"https://files.fm/thumb_show.php?i=hejpx7eem"
+        },
+
+        {
+            "articul":"Tovar",
+            "id": 70,
+            "price":76,
+            "title":"Шарф гіпюровий білого кольору",
+            "image":"https://files.fm/thumb_show.php?i=wcdqgxjsn"
+        },
+
+        {
+            "articul":"Tovar",
+            "id": 71,
+            "price":102,
+            "title":"Шарф гіпюровий чорного кольору",
+            "image":"https://files.fm/thumb_show.php?i=q6k6kxkmg"
+        },
+
+        {
+            "articul":"Tovar",
+            "id": 72,
+            "price":122,
+            "title":"Подушка проста",
+            "image":"https://files.fm/thumb_show.php?i=fy2444myu"
+        },
+
+        {
+            "articul":"Tovar",
+            "id": 73,
+            "price":184,
+            "title":"Подушка атласна с рюшами",
+            "image":"https://files.fm/thumb_show.php?i=x9wzmb4gu"
+        },
+
+        {
+            "articul":"Tovar",
+            "id": 74,
+            "price":9,
+            "title":"Хустка носова",
+            "image":"https://files.fm/thumb_show.php?i=y82uavm9w"
+        },
+        {
+            "articul":"Tovar",
+            "id": 75,
+            "price":14,
+            "title":"Траурна стрічка",
+            "image":"https://files.fm/thumb_show.php?i=5xcfjb5dn"
+        },
+        {
+            "articul":"Tovar",
+            "id": 76,
+            "price":70,
+            "title":"Табличка дерев'яна",
+            "image":"https://files.fm/thumb_show.php?i=pwvtgkxst"
+        },
+        {
+            "articul":"Tovar",
+            "id": 77,
+            "price":95,
+            "title":"Табличка пластикова на хрест",
+            "image":"https://files.fm/thumb_show.php?i=8kx573hck"
+        }
+
+
+
+
+
+]

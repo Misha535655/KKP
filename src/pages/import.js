@@ -1,0 +1,16 @@
+export {default as Index} from './Index';
+export {default as Info} from './Info';
+export {default as Helper} from './Helper';
+export {default as Contacts} from './Contacts';
+export {default as Magazine} from './Magazine';
+export {default as Maps} from './Maps';
+export {default as Venki} from './Venki';
+export {default as Truna} from './Truna';
+export {default as Krest} from './Krest';
+export {default as Mogili} from './Mogili';
+export {default as Dostavka} from './Dostavka';
+export {default as Katafalk} from './Katafalk';
+export {default as Morg} from './Morg';
+export {default as Ather} from './Ather';
+export {default as Tovar} from './Tovar';
+export {default as Cart} from './Cart';
